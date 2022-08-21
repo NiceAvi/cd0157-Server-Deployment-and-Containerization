@@ -54,7 +54,7 @@ python -m pip install --upgrade pip==20.2.3
 1. Fork the <a href="https://github.com/udacity/cd0157-Server-Deployment-and-Containerization" target="_blank">Server and Deployment Containerization Github repo</a> to your Github account.
 1. Locally clone your forked version to begin working on the project.
 ```bash
-git clone https://github.com/SudKul/cd0157-Server-Deployment-and-Containerization.git
+git clone https://github.com/NiceAvi/cd0157-Server-Deployment-and-Containerization.git
 cd cd0157-Server-Deployment-and-Containerization/
 ```
 1. These are the files relevant for the current project:
